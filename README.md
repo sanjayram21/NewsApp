@@ -1,2 +1,2 @@
 # Android app to check news.
-asodkasokd
+Check master branch for code.
